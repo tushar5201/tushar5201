@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Tushar Lakadiya 👋
 
-<!--
-**tushar5201/tushar5201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 A passionate MERN Stack Developer  
+📍 Based in India | 🎓 BCA Student at SDJ International College
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- Frontend: React, HTML5, CSS3, Bootstrap
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Tools: Git, Postman, JWT, Socket.io, Vercel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Featured Projects
+
+🔹 **Zesty – Food Delivery App**  
+Multi-role (user, restaurant, admin) food delivery platform  
+Tech: React, Node.js, MongoDB, Express, Socket.io  
+[Live Site](https://zesty-restaurant-phi.vercel.app/) | [Admin Panel](https://zesty-admin.vercel.app/)
+
+🔹 **FitPro – Fitness Tracker App**  
+Secure authentication, calorie tracking, and workout logging  
+[Live Demo](https://fitpro-zeta.vercel.app/)
+
+---
+
+📫 **Let's connect:**  
+[LinkedIn](https://linkedin.com/in/tushar-lakadiya-a6b878234) | [GitHub](https://github.com/yourusername) | 📧 tusharlakadiya@gmail.com
