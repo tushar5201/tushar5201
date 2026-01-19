@@ -1,7 +1,7 @@
 # Hi, I'm Tushar Lakadiya 👋
 
 🚀 A passionate MERN Stack Developer  
-📍 Based in India | 🎓 BCA Student at SDJ International College
+📍 Based in India | 🎓 MSC (IT) Student at Somaiya Vidyavihar University, Mumbai
 
 ### 🛠 Tech Stack
 - Frontend: React, HTML5, CSS3, Bootstrap
@@ -23,4 +23,4 @@ Secure authentication, calorie tracking, and workout logging
 ---
 
 📫 **Let's connect:**  
-[LinkedIn](https://linkedin.com/in/tushar-lakadiya-a6b878234) | [GitHub](https://github.com/yourusername) | 📧 tusharlakadiya@gmail.com
+[LinkedIn](https://linkedin.com/in/tushar-lakadiya-a6b878234) | [GitHub](https://github.com/tushar5201) | 📧 tusharlakadiya@gmail.com
